@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ストーリーテラー",
+  "base_artist": "白上フブキ",
+  "createdAt": "2026-03-06T09:46:29.449412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストーリーテラー",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/01_ストーリーテラー_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Storyteller (ストーリーテラー)",
+      "artist": "Chihiro Onitsuka (鬼束ちひろ)",
+      "has_synced": false,
+      "path": "select/02_Storyteller_(ストーリーテラー)_Chihiro_Onitsuka_(鬼束ちひろ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ストーリーテラー",
+      "artist": "白上フブキ",
+      "has_synced": true,
+      "path": "select/03_ストーリーテラー_白上フブキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストーリーテラー",
+      "artist": "白上フブキ",
+      "has_synced": false,
+      "path": "select/pl_01_ストーリーテラー_白上フブキ.txt"
+    }
+  ]
+}
